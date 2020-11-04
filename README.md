@@ -3,9 +3,12 @@ This is one of the tasks given to us in the internship we are doing with The Spa
 
 # Taks1
 ## Prediction using Supervised ML 
-● Predict the percentage of an student based on the no. of study hours. 
+● Predict the percentage of an student based on the no. of study hours.
+
 ● This is a simple linear  regression task as it involves just 2 variables.
-● You can use R, Python, SAS Enterprise Miner or any other tool  
+
+● You can use R, Python, SAS Enterprise Miner or any other tool
+
 ● Dataset : http://bit.ly/w-data 
 
 # Taks2
