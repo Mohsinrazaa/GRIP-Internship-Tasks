@@ -17,7 +17,7 @@ This is one of the tasks given to us in the internship we are doing with The Spa
 
 ● Dataset : https://bit.ly/3kXTdox
 
-#Taak 3
+# Task 3
 ## Exploratory Data Analysis 
 ● Perform ‘Exploratory Data Analysis’ on dataset  ‘SampleSuperstore’
 
