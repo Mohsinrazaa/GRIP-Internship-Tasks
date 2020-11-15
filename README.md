@@ -46,3 +46,6 @@ This is one of the tasks given to us in the internship we are doing with The Spa
 ● Suggest teams or players a company should endorse for its products.
 
 ● Dataset:https://bit.ly/34SRn3b
+
+# Task 6
+## Prediction using Decision Tree Algorithm 
