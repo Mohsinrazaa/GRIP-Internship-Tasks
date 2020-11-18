@@ -56,3 +56,4 @@ This is one of the tasks given to us in the internship we are doing with The Spa
 ● Dataset : https://bit.ly/3kXTdox
 
 # Task 7
+## Stock Market Prediction using Numerical and Textual Analysis 
