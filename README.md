@@ -54,3 +54,5 @@ This is one of the tasks given to us in the internship we are doing with The Spa
 ● The purpose is if we feed any new data to this  classifier, it would be able to predict the right class accordingly. 
 
 ● Dataset : https://bit.ly/3kXTdox
+
+# Task 7
