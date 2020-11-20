@@ -64,3 +64,6 @@ This is one of the tasks given to us in the internship we are doing with The Spa
 ● Download historical stock prices from finance.yahoo.com
 
 ● Download textual (news) data from https://bit.ly/36fFPI6
+
+# Task 8
+## Timeline Analysis : Covid-19 
